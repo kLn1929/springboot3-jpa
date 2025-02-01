@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.kln.course.entities.Category;
-import com.kln.course.entities.Order;
 import com.kln.course.repositories.CategoryRepository;
 
 @Service
